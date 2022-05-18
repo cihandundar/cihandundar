@@ -1,6 +1,6 @@
 👋 Hi, I’m Cihan Dundar. I'm not currently work anywhere.
 
-👀 I’m interested in Frontend Development
+👀 I’m interested in Frontend Development as a self-taught learner
 
 🌱 I’m currently learning JavaScript from YouTube, Frontend Mentor, Patika.dev, FreeCodeCamp etc.
 
