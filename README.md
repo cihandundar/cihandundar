@@ -1,9 +1,7 @@
-👋 Hi, I’m Cihan Dundar. I'm not currently work anywhere.
+👋 Hi, I’m Cihan Dundar. I'm currently unemployeed.
 
-👀 I’m interested in Frontend Development as a self-taught learner
+👀 I’m a self-taught Frontend Developer.
 
-🌱 I’m currently learning JavaScript from YouTube, Frontend Mentor, Patika.dev, FreeCodeCamp etc.
+💻 I'm currently developing HTML, CSS, SCSS and JavaScript skills.
 
-💻 I've experienced with HTML, CSS, SCSS,  JavaScript (in-progress...)
-
-📫 How to reach me => [LinkedIn](https://www.linkedin.com/in/cihandundar)
+📫 You can reach me via => [LinkedIn](https://www.linkedin.com/in/cihandundar)
